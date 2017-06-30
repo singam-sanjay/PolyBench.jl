@@ -7,7 +7,7 @@ This package is a Julia port of the [PolyBench](http://web.cse.ohio-state.edu/~p
 You can install PolyBench.jl via executing the following command in your Julia REPL:
 
 ```
-julia> Pkg.clone("https://github.com/MatthiasJReisinger/PolyBench.jl")
+julia> Pkg.clone("https://github.com/singam-sanjay/PolyBench.jl")
 ```
 
 ## Loading and running the benchmarks
